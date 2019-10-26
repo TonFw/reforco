@@ -16,3 +16,4 @@ elif delta == 0:
 else:
     x1 = (-b + ((b**2 - 4*a*c) ** (1/2))) / 2*a
     x2 = (-b - ((b**2 - 4*a*c) ** (1/2))) / 2*a
+    print('raízes (x1 e x2) da equação: ', x1,x2)
